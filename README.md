@@ -1,9 +1,9 @@
 # Assignment to populate information into table from dropdown and display user persona card with API call.
 
 ## Basic commands to test and run the application
-npm install
-npm test
-npm start
+- To download dependencies: `npm install`
+- To run test cases: `npm test`
+- To run the application: `npm start`
 
 ### Testing
 
@@ -17,9 +17,9 @@ Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Improvements
-More accurate stylings.
-Error handling to be done.
-More test case coverage.
+- More accurate stylings.
+- Error handling to be done.
+- More test case coverage.
 
 ## Table of Contents
 
