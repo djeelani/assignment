@@ -1,0 +1,58 @@
+#country {
+  width: 150px;
+  margin-top: 50px;
+  margin-left: 95px;
+}
+
+#state {
+  width: 150px;
+  margin-top: -32px;
+  margin-left: 350px;
+}
+
+#city {
+  width: 150px;
+  margin-top: -32px;
+  margin-left: 610px;
+}
+
+#area {
+  width: 230px;
+  margin-top: -32px;
+  margin-left: 870px;
+}
+
+#add {
+  margin-top: 30px;
+  margin-left: -260px;
+}
+
+#clear {
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+#userId {
+  width: 140px;
+  margin-left: 380px;
+  margin-bottom: -32px;
+}
+
+#card {
+  margin-top: 20px;
+}
+
+.ms-Persona {
+  margin-top: 20px;
+  margin-left: 485px;
+} 
+
+.ms-Button-label {
+  color: #212121;
+  display: inline-block;
+}
+
+.root-47 {
+  height: 250px;
+  overflow:scroll;
+}
